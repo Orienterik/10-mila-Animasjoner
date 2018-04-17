@@ -14,11 +14,11 @@
 - Avhengig av hvor rask man vil ha gif-en, kan man endre FPS oppe til høyre under forhåndsvisningen.
 - Tegn gifen ved å bruke verktøyene i menyen til venstre, og trykke "Add new frame".
 - Tips for å lage ting som beveger seg:
-    -Klikk på Duplicate this frame på din hittil siste frame.
-    -Beveg hele tegningen din med Move tool (Hånd-symbolet).
-    -Gjenta prosessen.
-    (Dersom man vil ha noe som beveger seg inn på skjermen, kan det være lurt å legge inn dette i motsatt rekkefølge, og så bytte om           rekkefølgen på frames'ene. Dette fordi piksler blir slettet når de flyttes ut av skjermen.)
-- Det er også mulig å tegne med flere lag. Kan for eksempel ha et svart lag forrest som man flytter på for å få det som er under til å komme til syne.
+    - Klikk på Duplicate this frame på din hittil siste frame.
+    - Beveg hele tegningen din med Move tool (Hånd-symbolet).
+    - Gjenta prosessen.
+    - (Dersom man vil ha noe som beveger seg inn på skjermen, kan det være lurt å legge inn dette i motsatt rekkefølge, og så bytte om           rekkefølgen på frames'ene. Dette fordi piksler blir slettet når de flyttes ut av skjermen.)
+- Det er også mulig å tegne med flere lag (layers). Kan for eksempel ha et svart lag forrest som man flytter på for å få det som er under til å komme til syne.
 
 ## Video
 - Video med alle sideforhold kan vises.
